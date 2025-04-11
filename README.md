@@ -2,7 +2,7 @@
 
 * Estudante de Sistemas para Internet no IFPB, apaixonado por programação e sempre em busca de evoluir como desenvolvedor full-stack.
 
-* Curto resolver problemas, estudar novas tecnologias e criar projetos úteis e criativos.
+* Curto resolver problemas, estudar novas tecnologias e criar uns projetinhos.
 
 * contato: emanoelbarreto2005@gmail.com ✉️
 
