@@ -8,20 +8,44 @@
 
 ---
 
-### 🚀 Linguagens e Ferramentas
+## 🚀 Linguagens e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,javascript,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+</div>
 
----
+<br>
 
-### 📊 Linguagens mais usadas
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneuu&layout=compact&bg_color=000000&title_color=38B2AC&text_color=ffffff&border_color=000000&langs_count=6)
+<br>
 
----
+## 📊 Minhas Estatísticas
+
+<div align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img alt="maneuu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maneuu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="maneuu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maneuu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="maneuu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneuu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<br>
